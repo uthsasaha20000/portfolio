@@ -52,6 +52,11 @@ const Navbar = () => {
               </a>
             </li>
             <li>
+              <a href="#education" className="block py-2 md:py-0">
+                Education
+              </a>
+            </li>
+            <li>
               <a href="#skills" className="block py-2 md:py-0">
                 Skills
               </a>
@@ -59,6 +64,11 @@ const Navbar = () => {
             <li>
               <a href="#projects" className="block py-2 md:py-0">
                 Projects
+              </a>
+            </li>
+            <li>
+              <a href="#achievements" className="block py-2 md:py-0">
+                Achievements
               </a>
             </li>
             <li>

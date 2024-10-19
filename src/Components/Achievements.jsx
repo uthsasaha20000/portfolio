@@ -5,15 +5,17 @@ const Achievements = () => {
     <section id="achievements" className="p-4 sm:p-8 bg-gray-50 shadow-lg rounded-lg">
       <h2 className="text-4xl text-center font-bold mb-6 text-blue-600">Achievements</h2>
 
-      <h3 className="text-2xl font-semibold mb-2 text-gray-800">Competitive Rankings</h3>
-      <ul className="list-disc list-inside mb-6">
-        <li className="mb-1">🥇 <strong>Ranked 81st</strong> in Codechef October Challenge 2021</li>
-        <li className="mb-1">🥈 <strong>Ranked 127th</strong> in ICPC Asia Regional 2021 Onsite Round</li>
-        <li className="mb-1">🥈 <strong>Ranked 131st</strong> in ICPC Asia Dhaka Regional 2022 Onsite Round</li>
-        <li className="mb-1">🏆 <strong>Ranked 268th</strong> (out of 1700+ teams) in ICPC Asia Dhaka Regional online prelim 2021, qualified for Onsite Round</li>
-        <li className="mb-1">🏆 <strong>Ranked 398th</strong> (out of 1600+ teams) in ICPC Asia Dhaka Regional online prelim 2022, qualified for Onsite Round</li>
-        <li className="mb-1">🥉 <strong>Ranked 4th</strong> in Intra University LFR competition</li>
-      </ul>
+      <div>
+        <h3 className="text-2xl font-semibold mb-2 text-gray-800">Competitive Rankings</h3>
+        <ul className="list-disc list-inside mb-6">
+            <li className="mb-1">🥇 <strong>Ranked 81st</strong> in Codechef October Challenge 2021</li>
+            <li className="mb-1">🥈 <strong>Ranked 127th</strong> in ICPC Asia Regional 2021 Onsite Round</li>
+            <li className="mb-1">🥈 <strong>Ranked 131st</strong> in ICPC Asia Dhaka Regional 2022 Onsite Round</li>
+            <li className="mb-1">🏆 <strong>Ranked 268th</strong> (out of 1700+ teams) in ICPC Asia Dhaka Regional online prelim 2021, qualified for Onsite Round</li>
+            <li className="mb-1">🏆 <strong>Ranked 398th</strong> (out of 1600+ teams) in ICPC Asia Dhaka Regional online prelim 2022, qualified for Onsite Round</li>
+            <li className="mb-1">🥉 <strong>Ranked 4th</strong> in Intra University LFR competition</li>
+        </ul>
+      </div>
 
       <h3 className="text-2xl font-semibold mb-2 text-gray-800">Online Contests</h3>
       <table className="min-w-full border-collapse border border-gray-300 rounded-lg overflow-hidden shadow">
