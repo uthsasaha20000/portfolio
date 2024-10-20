@@ -161,7 +161,7 @@ const Projects = () => {
                     </svg>                  
                   Server side
                 </a>
-                <a className='flex gap-0.5' href = "/" target='_blank'>
+                <a className='flex gap-0.5' href = "https://books-buy1.web.app/" target='_blank'>
                     Live website
                 </a>
               </div>
