@@ -29,7 +29,7 @@ const Education = () => {
             GPA: <span className="font-semibold text-blue-600">5.00</span>
           </p>
           <ul className="mt-4 list-disc list-inside">
-            <li>Obtained 189<sup>th</sup> position in comilla board and got board scholarship (general category)</li>
+            <li>Obtained <strong>189<sup>th</sup></strong> position in comilla board and got board scholarship (general category)</li>
           </ul>
         </div>
 

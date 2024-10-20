@@ -17,6 +17,7 @@ const Projects = () => {
               />
               <div className="p-4">
                 <h3 className="text-3xl font-bold">Parcel Delivery Application</h3>
+                <p className='font-bold mt-1 text-gray-500'>React | Firebase | Express | Mongodb </p>
                 {/* <p className="text-gray-700">
                   Tourists can share their visited places and find other visited places uploaded by others
                 </p> */}
@@ -78,9 +79,8 @@ const Projects = () => {
             />
             <div className="p-4">
               <h3 className="text-3xl font-bold">Tourist</h3>
-              {/* <p className="text-gray-700">
-                Tourists can share their visited places and find other visited places uploaded by others
-              </p> */}
+              <p className='font-bold mt-1 text-gray-500'>React | Firebase | Express | Mongodb </p>
+
               <h4 className="mt-4 text-lg font-semibold text-blue-600">Features:</h4>
               <ul className="list-disc list-inside text-gray-700 mt-2 text-sm">
                 <li><strong>Fullstack Application:</strong> Built with a complete stack, including both frontend and backend development for a fully functional web experience.</li>
@@ -88,7 +88,7 @@ const Projects = () => {
                 <li><strong>Private Routes:</strong> Ensures certain routes are accessible only to authenticated users, protecting sensitive pages and information.</li>
                 <li><strong>Google and GitHub Authentication:</strong> Allows users to sign in using their Google or GitHub accounts for a quicker and more convenient login experience.</li>
               </ul>
-              <div className='my-3 text-blue-600 font-semibold flex gap-3 underline'>
+              <div className='my-3 text-blue-600 font-semibold flex gap-3 underline mt-12'>
                 <a className='flex gap-0.5' href = "https://github.com/khalid586/Tourist" target='_blank'>
                     <svg
                       xmlns="http://www.w3.org/2000/svg"
@@ -128,9 +128,8 @@ const Projects = () => {
             />
             <div className="p-4">
               <h3 className="text-3xl font-bold">Books Buy</h3>
-              {/* <p className="text-gray-700">
-                Tourists can share their visited places and find other visited places uploaded by others
-              </p> */}
+              <p className='font-bold mt-1 text-gray-500'>React | Firebase | Express | Mongodb </p>
+
               <h4 className="mt-4 text-lg font-semibold text-blue-600">Features:</h4>
               <ul className="list-disc list-inside text-gray-700 mt-2 text-sm">
                 <li><strong>Fullstack Application:</strong> Built with a complete stack, including both frontend and backend development for a fully functional web experience.</li>
@@ -138,7 +137,7 @@ const Projects = () => {
                 <li><strong>Private Routes:</strong> Ensures certain routes are accessible only to authenticated users, protecting sensitive pages and information.</li>
                 <li><strong>Google and GitHub Authentication:</strong> Allows users to sign in using their Google or GitHub accounts for a quicker and more convenient login experience.</li>
               </ul>
-              <div className='my-3 text-blue-600 font-semibold flex gap-3 underline'>
+              <div className='my-3 text-blue-600 font-semibold flex gap-3 underline mt-12'>
                 <a className='flex gap-0.5' href = "https://github.com/khalid586/Books-buy" target='_blank'>
                     <svg
                       xmlns="http://www.w3.org/2000/svg"
