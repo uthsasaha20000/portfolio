@@ -9,7 +9,7 @@ function Banner() {
                 <p className='text-center text-2xl font-bold'>Software Developer</p>
                 <div className='flex justify-center md:px-32'>
                     <p className='md:px-16  py-2'>Computer Science and engineering graduate having 3+ years of experience of solving problems and competing in National competitions like ICPC and IUPC
-                    and 1 year of experience of developing web applications. Currently I am developing the MVP(Minimum Viable Product) @alizenshop.
+                    and 1 year of experience of developing web applications. Currently developing the MVP(Minimum Viable Product) @alizenshop.
                     </p>
                 </div>
                 <div className='text-center my-4'>

@@ -4,7 +4,7 @@ import React from 'react';
 const Education = () => {
   return (
     <section id = 'education' className="bg-white text-gray-800 p-6">
-      <h2 className="text-3xl font-bold mb-4 text-center">Education</h2>
+      <h2 className="text-4xl text-center font-bold mb-6 text-blue-600">Education</h2>
       <div className="flex flex-col items-center space-y-6">
         {/* Bachelor's Degree */}
         <div className="bg-gray-100 border border-gray-300 rounded-lg shadow-lg p-6 w-full md:w-3/4 lg:w-2/3">
@@ -29,7 +29,7 @@ const Education = () => {
             GPA: <span className="font-semibold text-blue-600">5.00</span>
           </p>
           <ul className="mt-4 list-disc list-inside">
-            <li>Obtained 189<sup>th</sup> position in comilla board and got board scholarship</li>
+            <li>Obtained 189<sup>th</sup> position in comilla board and got board scholarship (general category)</li>
           </ul>
         </div>
 
