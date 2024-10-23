@@ -11,7 +11,7 @@ function Banner() {
                     <p className='md:px-16  py-2'>Computer Science and Engineering graduate having 3+ years of experience of solving problems and competing in National competitions like ICPC and IUPC
                     and 1 year of experience of developing web applications.
                     </p>
-                    <p className='text-gray-700 md:px-16  py-2 font-semibold'>Currently developing  MVP @<span className='font-bold text-black'>Alizenshop</span>.</p>
+                    <p className='text-gray-700 md:px-16  py-2 font-semibold'>Currently developing  MVP @<span className='font-bold text-black'>Alizen world</span>.</p>
                 </div>
 
 
