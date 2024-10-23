@@ -60,7 +60,7 @@ function Banner() {
                     </a>
                 </div>
             </div>
-            <img src="khalid abdullah.jpg" alt="Khalid Abdullah" className='md:w-1/5 rounded-box   text-center'/>
+            <img src="khalid abdullah.jpg" alt="Khalid Abdullah" className='md:w-1/5 rounded-box   text-center border-l-4 border-b-4 border-2 border-red-500'/>
         </div>
     </div>
   )
