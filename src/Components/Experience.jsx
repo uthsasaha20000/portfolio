@@ -11,10 +11,10 @@ const Experience = () => {
           <h3 className="text-xl font-bold text-blue-600 mb-2">Full-stack Developer</h3>
           <p className="text-lg font-semibold text-gray-700">Alizen world</p>
           <ul className="mt-3 list-disc list-inside text-gray-700">
-            <li>Building APIs and ensuring security for user data and transactions.</li>
-            <li>Developing the user interface (UI) for an intuitive and responsive shopping experience.</li>
-            <li>Integrating third-party services such as payment gateways and shipping providers.</li>
-            <li>Writing efficient and maintainable code for both frontend and backend components.</li>
+            <li>Built APIs and ensuring security for user data and transactions.</li>
+            <li>Designed the user interface (UI) for an intuitive and responsive shopping experience.</li>
+            <li>Integrated third-party services such as payment gateways and shipping providers.</li>
+            <li>Wrote efficient and maintainable code for both frontend and backend components.</li>
           </ul>
           <div className="mt-4">
             <span className="text-sm text-gray-500">Technologies used: React, Node.js, Express, MongoDB, Tailwind CSS</span>
