@@ -48,7 +48,7 @@ const Navbar = () => {
           <ul className="flex flex-col md:flex-row md:space-x-6">
             <li>
               <a href="#about" className="block py-2 md:py-0">
-                About
+                About uthsa
               </a>
             </li>
             <li>
